@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StudioBuildStatistic">
+    <record utc_ms="1428910783419">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1428913800463">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1428913808092">
+      <value key="sync-time" value="70608" />
+    </record>
+    <record utc_ms="1428917363250">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1428974407065">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1428996858116">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1428996872873">
+      <value key="sync-time" value="60506" />
+    </record>
+    <record utc_ms="1428997816863">
+      <value key="sync-time" value="14532" />
+    </record>
+    <record utc_ms="1428998305758">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429004466809">
+      <value key="sync-time" value="16" />
+    </record>
+    <record utc_ms="1429004512618">
+      <value key="sync-time" value="14" />
+    </record>
+    <record utc_ms="1429005390841">
+      <value key="sync-time" value="8870" />
+    </record>
+    <record utc_ms="1429005416908">
+      <value key="sync-time" value="9654" />
+    </record>
+    <record utc_ms="1429062987879">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429065389941">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429072845300">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429075771460">
+      <value key="sync-time" value="19" />
+    </record>
+    <record utc_ms="1429087085448">
+      <value key="sync-time" value="10053" />
+    </record>
+    <record utc_ms="1429148351006">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429149237824">
+      <value key="sync-time" value="49384" />
+    </record>
+    <record utc_ms="1429151001025">
+      <value key="sync-time" value="7322" />
+    </record>
+    <record utc_ms="1429151598702">
+      <value key="sync-time" value="7943" />
+    </record>
+    <record utc_ms="1429164932928">
+      <value key="sync-time" value="6812" />
+    </record>
+    <record utc_ms="1429170062443">
+      <value key="sync-time" value="16371" />
+    </record>
+    <record utc_ms="1429170062740">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429170071348">
+      <value key="sync-time" value="8625" />
+    </record>
+    <record utc_ms="1429170739553">
+      <value key="sync-time" value="3958" />
+    </record>
+    <record utc_ms="1429241434042">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429241719545">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429241724641">
+      <value key="sync-time" value="57384" />
+    </record>
+    <record utc_ms="1429241898339">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429241899792">
+      <value key="sync-time" value="14163" />
+    </record>
+    <record utc_ms="1429242150183">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429242151198">
+      <value key="sync-time" value="9871" />
+    </record>
+    <record utc_ms="1429242927099">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429242928017">
+      <value key="sync-time" value="9521" />
+    </record>
+    <record utc_ms="1429243157839">
+      <value key="sync-time" value="13422" />
+    </record>
+    <record utc_ms="1429243227147">
+      <value key="sync-time" value="10269" />
+    </record>
+    <record utc_ms="1429243655410">
+      <value key="sync-time" value="9742" />
+    </record>
+    <record utc_ms="1429246830837">
+      <value key="sync-time" value="7420" />
+    </record>
+    <record utc_ms="1429246862716">
+      <value key="sync-time" value="5757" />
+    </record>
+    <record utc_ms="1429246869803">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429246916181">
+      <value key="sync-time" value="5730" />
+    </record>
+    <record utc_ms="1429247084433">
+      <value key="sync-time" value="9402" />
+    </record>
+    <record utc_ms="1429247617274">
+      <value key="sync-time" value="8448" />
+    </record>
+    <record utc_ms="1429247903290">
+      <value key="sync-time" value="8142" />
+    </record>
+    <record utc_ms="1429247914127">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429248353980">
+      <value key="sync-time" value="5988" />
+    </record>
+    <record utc_ms="1429248462411">
+      <value key="sync-time" value="13126" />
+    </record>
+    <record utc_ms="1429248565156">
+      <value key="sync-time" value="3970" />
+    </record>
+    <record utc_ms="1429248724404">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429248888282">
+      <value key="sync-time" value="39020" />
+    </record>
+    <record utc_ms="1429248888503">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429248897174">
+      <value key="sync-time" value="8699" />
+    </record>
+    <record utc_ms="1429248986379">
+      <value key="sync-time" value="3966" />
+    </record>
+    <record utc_ms="1429249098557">
+      <value key="sync-time" value="3449" />
+    </record>
+    <record utc_ms="1429249113861">
+      <value key="sync-time" value="3030" />
+    </record>
+    <record utc_ms="1429249142207">
+      <value key="sync-time" value="3523" />
+    </record>
+    <record utc_ms="1429249158591">
+      <value key="sync-time" value="3399" />
+    </record>
+    <record utc_ms="1429252916747">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429253874329">
+      <value key="sync-time" value="12151" />
+    </record>
+    <record utc_ms="1429256426403">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429256687404">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429256754757">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429256757775">
+      <value key="sync-time" value="18646" />
+    </record>
+    <record utc_ms="1429257028837">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429257084856">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429257086895">
+      <value key="sync-time" value="20241" />
+    </record>
+    <record utc_ms="1429257153685">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429257154966">
+      <value key="sync-time" value="7314" />
+    </record>
+    <record utc_ms="1429257488350">
+      <value key="sync-time" value="7993" />
+    </record>
+    <record utc_ms="1429257995098">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429257996335">
+      <value key="sync-time" value="7639" />
+    </record>
+    <record utc_ms="1429258301138">
+      <value key="sync-time" value="7563" />
+    </record>
+    <record utc_ms="1429258308875">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429258585965">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429258674079">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429258676453">
+      <value key="sync-time" value="15979" />
+    </record>
+    <record utc_ms="1429258774313">
+      <value key="sync-time" value="8303" />
+    </record>
+    <record utc_ms="1429262214209">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429497890503">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429578995802">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429583295697">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429583298873">
+      <value key="sync-time" value="64288" />
+    </record>
+    <record utc_ms="1429584170614">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429584172592">
+      <value key="sync-time" value="15543" />
+    </record>
+    <record utc_ms="1429584974965">
+      <value key="sync-time" value="10999" />
+    </record>
+    <record utc_ms="1429585497742">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429585502122">
+      <value key="sync-time" value="38063" />
+    </record>
+    <record utc_ms="1429587929671">
+      <value key="sync-time" value="13396" />
+    </record>
+    <record utc_ms="1429588362962">
+      <value key="sync-time" value="7899" />
+    </record>
+    <record utc_ms="1429605422671">
+      <value key="sync-time" value="2516" />
+    </record>
+    <record utc_ms="1429605422959">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429605424940">
+      <value key="sync-time" value="2004" />
+    </record>
+    <record utc_ms="1429605648555">
+      <value key="sync-time" value="2051" />
+    </record>
+    <record utc_ms="1429606173956">
+      <value key="sync-time" value="2914" />
+    </record>
+    <record utc_ms="1429606740425">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429606742262">
+      <value key="sync-time" value="11985" />
+    </record>
+    <record utc_ms="1429607606586">
+      <value key="sync-time" value="3150" />
+    </record>
+    <record utc_ms="1429664691778">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429664751158">
+      <value key="sync-time" value="59592" />
+    </record>
+    <record utc_ms="1429667759025">
+      <value key="sync-time" value="23079" />
+    </record>
+    <record utc_ms="1429667759848">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429667766170">
+      <value key="sync-time" value="6343" />
+    </record>
+    <record utc_ms="1429667942486">
+      <value key="sync-time" value="5829" />
+    </record>
+    <record utc_ms="1429668938092">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429668941976">
+      <value key="sync-time" value="14672" />
+    </record>
+    <record utc_ms="1429752662569">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429752702729">
+      <value key="sync-time" value="40306" />
+    </record>
+    <record utc_ms="1429753020512">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1429753025301">
+      <value key="sync-time" value="19327" />
+    </record>
+    <record utc_ms="1429838855956">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1429838886335">
+      <value key="sync-time" value="30523" />
+    </record>
+    <record utc_ms="1430193407426">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1430193436032">
+      <value key="sync-time" value="28756" />
+    </record>
+    <record utc_ms="1430273704401">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1430273738427">
+      <value key="sync-time" value="34156" />
+    </record>
+    <record utc_ms="1430359163310">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1430359191072">
+      <value key="sync-time" value="27891" />
+    </record>
+    <record utc_ms="1430702334378">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1430702390008">
+      <value key="sync-time" value="55839" />
+    </record>
+    <record utc_ms="1430703312923">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1430703317292">
+      <value key="sync-time" value="21094" />
+    </record>
+    <record utc_ms="1430793467098">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1430874591661">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1430965394927">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1431048152016">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1431307756312">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1431393829918">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1431565383981">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1431653416975">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1431912351001">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432087987285">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432177776338">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432261206192">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432261622227">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432261626545">
+      <value key="sync-time" value="45825" />
+    </record>
+    <record utc_ms="1432261996101">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432273086429">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432517609447">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432518479860">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432518484110">
+      <value key="sync-time" value="58056" />
+    </record>
+    <record utc_ms="1432519180269">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432519189543">
+      <value key="sync-time" value="9300" />
+    </record>
+    <record utc_ms="1432519505270">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432519506131">
+      <value key="sync-time" value="9804" />
+    </record>
+    <record utc_ms="1432520946343">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432520947080">
+      <value key="sync-time" value="7188" />
+    </record>
+    <record utc_ms="1432524442239">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432524446910">
+      <value key="sync-time" value="38708" />
+    </record>
+    <record utc_ms="1432524775717">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1432524780248">
+      <value key="sync-time" value="29878" />
+    </record>
+    <record utc_ms="1432535131738">
+      <value key="sync-time" value="8" />
+    </record>
+    <record utc_ms="1432535744750">
+      <value key="sync-time" value="7616" />
+    </record>
+    <record utc_ms="1432538688912">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432538725995">
+      <value key="sync-time" value="37170" />
+    </record>
+    <record utc_ms="1432602049857">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432692053442">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432775510329">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432864675173">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1432872351269">
+      <value key="sync-time" value="10734" />
+    </record>
+    <record utc_ms="1432878384422">
+      <value key="sync-time" value="2480" />
+    </record>
+    <record utc_ms="1432878464349">
+      <value key="sync-time" value="13528" />
+    </record>
+    <record utc_ms="1432885813612">
+      <value key="sync-time" value="7576" />
+    </record>
+    <record utc_ms="1433122026013">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433209095621">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433229722420">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433294411522">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433381450004">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433398423053">
+      <value key="sync-time" value="17844" />
+    </record>
+    <record utc_ms="1433398579830">
+      <value key="sync-time" value="8006" />
+    </record>
+    <record utc_ms="1433466429831">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433727490396">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433753453935">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433754076196">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433811713347">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433813153905">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1433813155655">
+      <value key="sync-time" value="44219" />
+    </record>
+    <record utc_ms="1433818385350">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1433818386687">
+      <value key="sync-time" value="8639" />
+    </record>
+    <record utc_ms="1433818827967">
+      <value key="sync-time" value="23" />
+    </record>
+    <record utc_ms="1433818981472">
+      <value key="sync-time" value="11004" />
+    </record>
+    <record utc_ms="1433820107446">
+      <value key="sync-time" value="722626" />
+    </record>
+    <record utc_ms="1433820107746">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433820597961">
+      <value key="sync-time" value="13419" />
+    </record>
+    <record utc_ms="1433826615864">
+      <value key="sync-time" value="12713" />
+    </record>
+    <record utc_ms="1433826935989">
+      <value key="sync-time" value="6853" />
+    </record>
+    <record utc_ms="1433826953075">
+      <value key="sync-time" value="7933" />
+    </record>
+    <record utc_ms="1433828895364">
+      <value key="sync-time" value="9496" />
+    </record>
+    <record utc_ms="1433832414221">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1433832415231">
+      <value key="sync-time" value="8277" />
+    </record>
+    <record utc_ms="1433832434556">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433899180271">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433986242275">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433986449720">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1433986969572">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434010884007">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434010887878">
+      <value key="sync-time" value="22409" />
+    </record>
+    <record utc_ms="1434010938275">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434011351646">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434011353134">
+      <value key="sync-time" value="20763" />
+    </record>
+    <record utc_ms="1434011492080">
+      <value key="sync-time" value="14" />
+    </record>
+    <record utc_ms="1434011522052">
+      <value key="sync-time" value="9109" />
+    </record>
+    <record utc_ms="1434012107133">
+      <value key="sync-time" value="78424" />
+    </record>
+    <record utc_ms="1434012107439">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434012452238">
+      <value key="sync-time" value="344818" />
+    </record>
+    <record utc_ms="1434012793518">
+      <value key="sync-time" value="14602" />
+    </record>
+    <record utc_ms="1434014457241">
+      <value key="sync-time" value="8845" />
+    </record>
+    <record utc_ms="1434014512966">
+      <value key="sync-time" value="8497" />
+    </record>
+    <record utc_ms="1434071548319">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434072821294">
+      <value key="sync-time" value="52550" />
+    </record>
+    <record utc_ms="1434072821849">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434072832106">
+      <value key="sync-time" value="10278" />
+    </record>
+    <record utc_ms="1434077794208">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434077797121">
+      <value key="sync-time" value="28218" />
+    </record>
+    <record utc_ms="1434078091756">
+      <value key="sync-time" value="10" />
+    </record>
+    <record utc_ms="1434078263012">
+      <value key="sync-time" value="10201" />
+    </record>
+    <record utc_ms="1434078599353">
+      <value key="sync-time" value="12930" />
+    </record>
+    <record utc_ms="1434078645700">
+      <value key="sync-time" value="9267" />
+    </record>
+    <record utc_ms="1434078892870">
+      <value key="sync-time" value="10163" />
+    </record>
+    <record utc_ms="1434078966048">
+      <value key="sync-time" value="9219" />
+    </record>
+    <record utc_ms="1434079027483">
+      <value key="sync-time" value="10081" />
+    </record>
+    <record utc_ms="1434082515856">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434082517592">
+      <value key="sync-time" value="9480" />
+    </record>
+    <record utc_ms="1434082601742">
+      <value key="sync-time" value="18" />
+    </record>
+    <record utc_ms="1434082705849">
+      <value key="sync-time" value="8042" />
+    </record>
+    <record utc_ms="1434084876340">
+      <value key="sync-time" value="8943" />
+    </record>
+    <record utc_ms="1434085015548">
+      <value key="sync-time" value="10409" />
+    </record>
+    <record utc_ms="1434094139287">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434094140334">
+      <value key="sync-time" value="6763" />
+    </record>
+    <record utc_ms="1434094226422">
+      <value key="sync-time" value="17" />
+    </record>
+    <record utc_ms="1434094331505">
+      <value key="sync-time" value="9074" />
+    </record>
+    <record utc_ms="1434094499435">
+      <value key="sync-time" value="8101" />
+    </record>
+    <record utc_ms="1434095363952">
+      <value key="sync-time" value="11446" />
+    </record>
+    <record utc_ms="1434097982615">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434097984727">
+      <value key="sync-time" value="11484" />
+    </record>
+    <record utc_ms="1434098071013">
+      <value key="sync-time" value="16" />
+    </record>
+    <record utc_ms="1434098250584">
+      <value key="sync-time" value="11737" />
+    </record>
+    <record utc_ms="1434098293996">
+      <value key="sync-time" value="6349" />
+    </record>
+    <record utc_ms="1434098412963">
+      <value key="sync-time" value="9033" />
+    </record>
+    <record utc_ms="1434098682310">
+      <value key="sync-time" value="9986" />
+    </record>
+    <record utc_ms="1434098772734">
+      <value key="sync-time" value="8434" />
+    </record>
+    <record utc_ms="1434098828424">
+      <value key="sync-time" value="16541" />
+    </record>
+    <record utc_ms="1434100270235">
+      <value key="sync-time" value="10802" />
+    </record>
+    <record utc_ms="1434100440975">
+      <value key="sync-time" value="11267" />
+    </record>
+    <record utc_ms="1434100487155">
+      <value key="sync-time" value="9036" />
+    </record>
+    <record utc_ms="1434100577369">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434100578333">
+      <value key="sync-time" value="5950" />
+    </record>
+    <record utc_ms="1434101270235">
+      <value key="sync-time" value="10182" />
+    </record>
+    <record utc_ms="1434101285365">
+      <value key="sync-time" value="6278" />
+    </record>
+    <record utc_ms="1434101594155">
+      <value key="sync-time" value="15671" />
+    </record>
+    <record utc_ms="1434422661179">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434424078614">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434424084302">
+      <value key="sync-time" value="47022" />
+    </record>
+    <record utc_ms="1434424118003">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434435155860">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434435158761">
+      <value key="sync-time" value="11969" />
+    </record>
+    <record utc_ms="1434435179599">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434435572763">
+      <value key="sync-time" value="18193" />
+    </record>
+    <record utc_ms="1434435573013">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434435576711">
+      <value key="sync-time" value="3714" />
+    </record>
+    <record utc_ms="1434435736223">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434435738071">
+      <value key="sync-time" value="114768" />
+    </record>
+    <record utc_ms="1434435792849">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434436201055">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434436202802">
+      <value key="sync-time" value="13129" />
+    </record>
+    <record utc_ms="1434436253051">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434438280039">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434438281292">
+      <value key="sync-time" value="10515" />
+    </record>
+    <record utc_ms="1434439038123">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434439039172">
+      <value key="sync-time" value="5906" />
+    </record>
+    <record utc_ms="1434439636238">
+      <value key="sync-time" value="10423" />
+    </record>
+    <record utc_ms="1434440052755">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434440059213">
+      <value key="sync-time" value="50578" />
+    </record>
+    <record utc_ms="1434440370625">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434440571621">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434440574102">
+      <value key="sync-time" value="17317" />
+    </record>
+    <record utc_ms="1434503605776">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434506699285">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434506702931">
+      <value key="sync-time" value="21025" />
+    </record>
+    <record utc_ms="1434506736568">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434509623145">
+      <value key="sync-time" value="73029" />
+    </record>
+    <record utc_ms="1434509623415">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434509627471">
+      <value key="sync-time" value="4074" />
+    </record>
+    <record utc_ms="1434509664899">
+      <value key="sync-time" value="3433" />
+    </record>
+    <record utc_ms="1434509699946">
+      <value key="sync-time" value="3137" />
+    </record>
+    <record utc_ms="1434509809785">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434509810907">
+      <value key="sync-time" value="8195" />
+    </record>
+    <record utc_ms="1434509946073">
+      <value key="sync-time" value="14" />
+    </record>
+    <record utc_ms="1434510094343">
+      <value key="sync-time" value="9123" />
+    </record>
+    <record utc_ms="1434510616757">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434510617402">
+      <value key="sync-time" value="6454" />
+    </record>
+    <record utc_ms="1434515352629">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434515353775">
+      <value key="sync-time" value="8879" />
+    </record>
+    <record utc_ms="1434515744917">
+      <value key="sync-time" value="7825" />
+    </record>
+    <record utc_ms="1434515922310">
+      <value key="sync-time" value="8259" />
+    </record>
+    <record utc_ms="1434516667256">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434516668360">
+      <value key="sync-time" value="7464" />
+    </record>
+    <record utc_ms="1434516860849">
+      <value key="sync-time" value="27" />
+    </record>
+    <record utc_ms="1434516948377">
+      <value key="sync-time" value="8292" />
+    </record>
+    <record utc_ms="1434517114251">
+      <value key="sync-time" value="5370" />
+    </record>
+    <record utc_ms="1434517341588">
+      <value key="sync-time" value="9092" />
+    </record>
+    <record utc_ms="1434517675691">
+      <value key="sync-time" value="7894" />
+    </record>
+    <record utc_ms="1434517675950">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434517680525">
+      <value key="sync-time" value="4597" />
+    </record>
+    <record utc_ms="1434517787177">
+      <value key="sync-time" value="3543" />
+    </record>
+    <record utc_ms="1434517913171">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434517913934">
+      <value key="sync-time" value="6697" />
+    </record>
+    <record utc_ms="1434518306135">
+      <value key="sync-time" value="14" />
+    </record>
+    <record utc_ms="1434518370839">
+      <value key="sync-time" value="6891" />
+    </record>
+    <record utc_ms="1434518424192">
+      <value key="sync-time" value="7186" />
+    </record>
+    <record utc_ms="1434518483674">
+      <value key="sync-time" value="10765" />
+    </record>
+    <record utc_ms="1434518610213">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434518610725">
+      <value key="sync-time" value="7932" />
+    </record>
+    <record utc_ms="1434518721881">
+      <value key="sync-time" value="21" />
+    </record>
+    <record utc_ms="1434518852670">
+      <value key="sync-time" value="8104" />
+    </record>
+    <record utc_ms="1434518974239">
+      <value key="sync-time" value="8007" />
+    </record>
+    <record utc_ms="1434519014827">
+      <value key="sync-time" value="9145" />
+    </record>
+    <record utc_ms="1434519090327">
+      <value key="sync-time" value="8196" />
+    </record>
+    <record utc_ms="1434519186192">
+      <value key="sync-time" value="12020" />
+    </record>
+    <record utc_ms="1434519205472">
+      <value key="sync-time" value="4785" />
+    </record>
+    <record utc_ms="1434519226648">
+      <value key="sync-time" value="6083" />
+    </record>
+    <record utc_ms="1434519242802">
+      <value key="sync-time" value="5190" />
+    </record>
+    <record utc_ms="1434519274958">
+      <value key="sync-time" value="7693" />
+    </record>
+    <record utc_ms="1434519329213">
+      <value key="sync-time" value="8470" />
+    </record>
+    <record utc_ms="1434520669498">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434520694862">
+      <value key="sync-time" value="25495" />
+    </record>
+    <record utc_ms="1434520917063">
+      <value key="sync-time" value="2497" />
+    </record>
+    <record utc_ms="1434521293071">
+      <value key="sync-time" value="1785" />
+    </record>
+    <record utc_ms="1434522148630">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434522153502">
+      <value key="sync-time" value="39685" />
+    </record>
+    <record utc_ms="1434522452074">
+      <value key="sync-time" value="7441" />
+    </record>
+    <record utc_ms="1434522482141">
+      <value key="sync-time" value="7157" />
+    </record>
+    <record utc_ms="1434524258276">
+      <value key="sync-time" value="1387" />
+    </record>
+    <record utc_ms="1434524557267">
+      <value key="sync-time" value="7006" />
+    </record>
+    <record utc_ms="1434524997843">
+      <value key="sync-time" value="8704" />
+    </record>
+    <record utc_ms="1434525218317">
+      <value key="sync-time" value="7227" />
+    </record>
+    <record utc_ms="1434525364212">
+      <value key="sync-time" value="38630" />
+    </record>
+    <record utc_ms="1434525472670">
+      <value key="sync-time" value="8142" />
+    </record>
+    <record utc_ms="1434526812603">
+      <value key="sync-time" value="26237" />
+    </record>
+    <record utc_ms="1434526928725">
+      <value key="sync-time" value="8522" />
+    </record>
+    <record utc_ms="1434526990906">
+      <value key="sync-time" value="7262" />
+    </record>
+    <record utc_ms="1434527211924">
+      <value key="sync-time" value="5544" />
+    </record>
+    <record utc_ms="1434527461306">
+      <value key="sync-time" value="5274" />
+    </record>
+    <record utc_ms="1434528249229">
+      <value key="sync-time" value="6084" />
+    </record>
+    <record utc_ms="1434528835528">
+      <value key="sync-time" value="8148" />
+    </record>
+    <record utc_ms="1434528998744">
+      <value key="sync-time" value="42760" />
+    </record>
+    <record utc_ms="1434529102426">
+      <value key="sync-time" value="7034" />
+    </record>
+    <record utc_ms="1434529316811">
+      <value key="sync-time" value="15002" />
+    </record>
+    <record utc_ms="1434529433255">
+      <value key="sync-time" value="8918" />
+    </record>
+    <record utc_ms="1434530255433">
+      <value key="sync-time" value="8677" />
+    </record>
+    <record utc_ms="1434531161568">
+      <value key="sync-time" value="10487" />
+    </record>
+    <record utc_ms="1434531690453">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434531790575">
+      <value key="sync-time" value="17487" />
+    </record>
+    <record utc_ms="1434531790973">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434531795577">
+      <value key="sync-time" value="4649" />
+    </record>
+    <record utc_ms="1434531990466">
+      <value key="sync-time" value="5108" />
+    </record>
+    <record utc_ms="1434532059781">
+      <value key="sync-time" value="4330" />
+    </record>
+    <record utc_ms="1434532105369">
+      <value key="sync-time" value="3991" />
+    </record>
+    <record utc_ms="1434532218810">
+      <value key="sync-time" value="16603" />
+    </record>
+    <record utc_ms="1434532321072">
+      <value key="sync-time" value="4532" />
+    </record>
+    <record utc_ms="1434532484853">
+      <value key="sync-time" value="1629" />
+    </record>
+    <record utc_ms="1434592084904">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434592092142">
+      <value key="sync-time" value="22983" />
+    </record>
+    <record utc_ms="1434592665736">
+      <value key="project-opened" value="gradle" />
+    </record>
+    <record utc_ms="1434593164134">
+      <value key="project-opened" value="not-gradle" />
+    </record>
+    <record utc_ms="1434593168815">
+      <value key="sync-time" value="18330" />
+    </record>
+    <record utc_ms="1434593618103">
+      <value key="sync-time" value="15072" />
+    </record>
+    <record utc_ms="1434593805218">
+      <value key="sync-time" value="9577" />
+    </record>
+    <record utc_ms="1434594318261">
+      <value key="sync-time" value="7942" />
+    </record>
+    <record utc_ms="1434596061563">
+      <value key="sync-time" value="6135" />
+    </record>
+    <record utc_ms="1434596199272">
+      <value key="sync-time" value="8605" />
+    </record>
+    <record utc_ms="1434596323374">
+      <value key="sync-time" value="5407" />
+    </record>
+  </component>
+</application>
+

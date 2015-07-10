@@ -1,0 +1,23 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>com.yalantis.euclid.library.</find>
+      <find>drawsele</find>
+      <find>AbsListView_vi</find>
+      <find>AbsListView_</find>
+      <find>visibility</find>
+      <find>draws</find>
+      <find>AbsListView_visibility</find>
+      <find>waterfall_container</find>
+      <find>R.</find>
+      <find>onRefresh</find>
+      <find>position</find>
+      <find>viewfinder_mask</find>
+      <find>result_view</find>
+      <find>possible_result_points</find>
+      <find>演出说</find>
+      <find>招募</find>
+      <find>志愿者</find>
+    </findStrings>
+  </component>
+</application>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt SLASH" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="shift alt S" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="control N" />
+    <keyboard-shortcut first-keystroke="control F10" />
+    <keyboard-shortcut first-keystroke="shift alt T" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="context.save" />
+</keymap>
+

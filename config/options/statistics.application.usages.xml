@@ -1,0 +1,188 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="Android-studio" values="JUnit" collectionTime="0" />
+      <project id="Model" values="JUnit" collectionTime="0" />
+    </group>
+    <group name="language-level">
+      <project id="Android-studio" values="JDK_1_7" collectionTime="0" />
+      <project id="demo" values="JDK_1_6" collectionTime="0" />
+      <project id="ETC_BT" values="JDK_1_7" collectionTime="0" />
+      <project id="ETC_APP" values="JDK_1_6,JDK_1_7" collectionTime="1436493346150" />
+      <project id="Android-studio-Model - 副本" values="JDK_1_6" collectionTime="0" />
+      <project id="ETC_HIGH_END" values="JDK_1_7" collectionTime="1434679254553" />
+      <project id="demo-app-android-1.4.4" values="JDK_1_6" collectionTime="0" />
+      <project id="Android-studio - Model" values="JDK_1_6" collectionTime="0" />
+      <project id="QZYSAndroidClient" values="JDK_1_6" collectionTime="0" />
+      <project id="circular-progress-button-master" values="JDK_1_6" collectionTime="0" />
+      <project id="1_ActionBar" values="JDK_1_6" collectionTime="0" />
+      <project id="FiveLevel" values="JDK_1_7" collectionTime="0" />
+      <project id="MyLeanCloud" values="JDK_1_7" collectionTime="0" />
+      <project id="Android-studio-Model" values="JDK_1_6" collectionTime="0" />
+      <project id="My Application" values="JDK_1_7" collectionTime="1435732847833" />
+      <project id="parent" values="JDK_1_6,JDK_1_7" collectionTime="0" />
+      <project id="Model" values="JDK_1_6" collectionTime="0" />
+      <project id="leanchat-android-master" values="JDK_1_6" collectionTime="0" />
+      <project id="GuillotineMenu-Android-master" values="JDK_1_6" collectionTime="0" />
+      <project id="app" values="JDK_1_6" collectionTime="0" />
+      <project id="Side-Menu.Android-master" values="JDK_1_7" collectionTime="0" />
+      <project id="myfirst" values="JDK_1_6" collectionTime="0" />
+      <project id="CircularReveal-master" values="JDK_1_6" collectionTime="0" />
+      <project id="AndroidSwipeLayout-master" values="JDK_1_7" collectionTime="1435813476255" />
+      <project id="ETC" values="JDK_1_7" collectionTime="0" />
+      <project id="MyApplication" values="JDK_1_7" collectionTime="1435655882140" />
+      <project id="Test" values="JDK_1_7" collectionTime="0" />
+      <project id="AndroidImageSlider" values="JDK_1_7" collectionTime="0" />
+      <project id="gradle" values="JDK_1_6" collectionTime="0" />
+      <project id="TTTTT" values="JDK_1_7" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="Android-studio" values="IDEA_MODULE,Properties,Images,Groovy,XML,ARCHIVE,JAVA,UNKNOWN,PLAIN_TEXT" collectionTime="0" />
+      <project id="demo" values="ProGuard File,Images,JAVA,XML,IDEA_MODULE,Groovy,PLAIN_TEXT,Properties,UNKNOWN" collectionTime="0" />
+      <project id="ETC_BT" values="Images,PLAIN_TEXT,UNKNOWN,JAVA,AIDL,IDEA_MODULE,Properties,SQL files,ProGuard File,Groovy,XML,ARCHIVE" collectionTime="0" />
+      <project id="ETC_APP" values="PLAIN_TEXT,SQL,AIDL,UNKNOWN,XML,CLASS,Groovy,ARCHIVE,IDEA_MODULE,Properties,JAVA,ProGuard File,Images" collectionTime="1436493346104" />
+      <project id="Android-studio-Model - 副本" values="UNKNOWN,IDEA_MODULE,XML,ARCHIVE,PLAIN_TEXT,JAVA,Properties,SQL files,Groovy,Images" collectionTime="0" />
+      <project id="ETC_HIGH_END" values="ProGuard File,Properties,AIDL,ARCHIVE,UNKNOWN,JAVA,Groovy,IDEA_MODULE,XML,Images,PLAIN_TEXT" collectionTime="1434679254452" />
+      <project id="demo-app-android-1.4.4" values="PLAIN_TEXT,UNKNOWN,XML,ARCHIVE,Groovy,Properties,Images,IDEA_MODULE,JAVA,ProGuard File" collectionTime="0" />
+      <project id="Android-studio - Model" values="ARCHIVE,UNKNOWN,PLAIN_TEXT,Groovy,Images,IDEA_MODULE,SQL files,JAVA,Properties,XML" collectionTime="0" />
+      <project id="QZYSAndroidClient" values="XML,Properties,IDEA_MODULE,ARCHIVE,Native,ProGuard File,UNKNOWN,JAVA,CLASS,Images,PLAIN_TEXT" collectionTime="0" />
+      <project id="circular-progress-button-master" values="ProGuard File,JAVA,Groovy,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,XML,Images,Properties,ARCHIVE" collectionTime="0" />
+      <project id="1_ActionBar" values="JAVA,UNKNOWN,Properties,Groovy,IDEA_MODULE,PLAIN_TEXT,Images,ARCHIVE,XML" collectionTime="0" />
+      <project id="FiveLevel" values="XML,IDEA_MODULE,ProGuard File,Properties,Groovy,Images,AIDL,PLAIN_TEXT,JAVA,ARCHIVE,UNKNOWN" collectionTime="0" />
+      <project id="MyLeanCloud" values="UNKNOWN,ProGuard File,XML,Properties,ARCHIVE,Images,JAVA,PLAIN_TEXT,IDEA_MODULE,Groovy" collectionTime="0" />
+      <project id="Android-studio-Model" values="IDEA_MODULE,Properties,PLAIN_TEXT,UNKNOWN,XML,SQL files,Images,ARCHIVE,JAVA,Groovy" collectionTime="0" />
+      <project id="My Application" values="ProGuard File,ARCHIVE,Groovy,IDEA_MODULE,AIDL,Images,UNKNOWN,JAVA,XML,PLAIN_TEXT,Properties" collectionTime="1435732847752" />
+      <project id="parent" values="UNKNOWN" collectionTime="0" />
+      <project id="Model" values="UNKNOWN,Properties,PLAIN_TEXT,Groovy,IDEA_MODULE,JAVA,ARCHIVE,XML,Images" collectionTime="0" />
+      <project id="leanchat-android-master" values="IDEA_MODULE,XML,PLAIN_TEXT,JAVA,Properties,ARCHIVE,Images,Groovy,UNKNOWN" collectionTime="0" />
+      <project id="GuillotineMenu-Android-master" values="Images,IDEA_MODULE,ProGuard File,Properties,Groovy,JAVA,PLAIN_TEXT,UNKNOWN,ARCHIVE,XML" collectionTime="0" />
+      <project id="app" values="PLAIN_TEXT,ProGuard File,Images,Groovy,IDEA_MODULE,XML,Properties,JAVA,UNKNOWN" collectionTime="0" />
+      <project id="Side-Menu.Android-master" values="JAVA,PLAIN_TEXT,Properties,ProGuard File,AIDL,Groovy,Images,ARCHIVE,IDEA_MODULE,UNKNOWN,XML" collectionTime="0" />
+      <project id="myfirst" values="Images,UNKNOWN,Properties,ARCHIVE,JAVA,ProGuard File,XML,Groovy,PLAIN_TEXT,IDEA_MODULE" collectionTime="0" />
+      <project id="CircularReveal-master" values="UNKNOWN,Properties,ARCHIVE,JAVA,PLAIN_TEXT,Groovy,ProGuard File,IDEA_MODULE,Images,XML" collectionTime="0" />
+      <project id="AndroidSwipeLayout-master" values="Images,ARCHIVE,Groovy,IDEA_MODULE,UNKNOWN,JAVA,ProGuard File,Properties,AIDL,PLAIN_TEXT,XML" collectionTime="1435813476198" />
+      <project id="ETC" values="AIDL,Images,ProGuard File,Properties,JAVA,PLAIN_TEXT,Groovy,UNKNOWN,XML,ARCHIVE,IDEA_MODULE" collectionTime="0" />
+      <project id="MyApplication" values="IDEA_MODULE,JAVA,ARCHIVE,AIDL,UNKNOWN,ProGuard File,PLAIN_TEXT,XML,Images,Groovy,Properties" collectionTime="1435655882138" />
+      <project id="Test" values="UNKNOWN,XML,AIDL,Groovy,PLAIN_TEXT,Properties,ARCHIVE,Images,JAVA,IDEA_MODULE,ProGuard File" collectionTime="0" />
+      <project id="AndroidImageSlider" values="XML,AIDL,Images,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,ProGuard File,Properties,Groovy,ARCHIVE,JAVA" collectionTime="0" />
+      <project id="gradle" values="XML,IDEA_MODULE,Images,UNKNOWN,ProGuard File,Properties,Groovy,PLAIN_TEXT,ARCHIVE,JAVA" collectionTime="0" />
+      <project id="TTTTT" values="Images,Properties,AIDL,UNKNOWN,JAVA,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,ProGuard File,XML,Groovy" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="Android-studio - Model" values="Git" collectionTime="0" />
+      <project id="Android-studio-Model" values="Git" collectionTime="0" />
+      <project id="ETC_HIGH_END" values="Git" collectionTime="1434679253753" />
+      <project id="Android-studio-Model - 副本" values="Git" collectionTime="0" />
+      <project id="ETC_APP" values="Git" collectionTime="1436493345394" />
+      <project id="ETC_BT" values="Git" collectionTime="0" />
+    </group>
+    <group name="frameworks">
+      <project id="Android-studio" values="java-gradle,android-gradle,android" collectionTime="0" />
+      <project id="demo" values="android-gradle,android" collectionTime="0" />
+      <project id="ETC_BT" values="android,android-gradle,java-gradle" collectionTime="0" />
+      <project id="ETC_APP" values="android,java-gradle,android-gradle" collectionTime="1436493345395" />
+      <project id="Android-studio-Model - 副本" values="android-gradle,java-gradle,android" collectionTime="0" />
+      <project id="ETC_HIGH_END" values="android,android-gradle,java-gradle" collectionTime="1434679253753" />
+      <project id="demo-app-android-1.4.4" values="android-gradle,android" collectionTime="0" />
+      <project id="Android-studio - Model" values="java-gradle,android-gradle,android" collectionTime="0" />
+      <project id="QZYSAndroidClient" values="android" collectionTime="0" />
+      <project id="circular-progress-button-master" values="android,android-gradle" collectionTime="0" />
+      <project id="1_ActionBar" values="android-gradle,java-gradle,android" collectionTime="0" />
+      <project id="FiveLevel" values="java-gradle,android-gradle,android" collectionTime="0" />
+      <project id="MyLeanCloud" values="android-gradle,java-gradle,android" collectionTime="0" />
+      <project id="Android-studio-Model" values="android,java-gradle,android-gradle" collectionTime="0" />
+      <project id="My Application" values="java-gradle,android,android-gradle" collectionTime="1435732847461" />
+      <project id="parent" values="android" collectionTime="0" />
+      <project id="Model" values="android,java-gradle,android-gradle" collectionTime="0" />
+      <project id="leanchat-android-master" values="android-gradle,android" collectionTime="0" />
+      <project id="GuillotineMenu-Android-master" values="android-gradle,android" collectionTime="0" />
+      <project id="app" values="android,android-gradle" collectionTime="0" />
+      <project id="Side-Menu.Android-master" values="android-gradle,java-gradle,android" collectionTime="0" />
+      <project id="myfirst" values="java-gradle,android-gradle,android" collectionTime="0" />
+      <project id="CircularReveal-master" values="android,android-gradle" collectionTime="0" />
+      <project id="AndroidSwipeLayout-master" values="android-gradle,android,java-gradle" collectionTime="1435813475880" />
+      <project id="ETC" values="android,android-gradle,java-gradle" collectionTime="0" />
+      <project id="MyApplication" values="android,java-gradle,android-gradle" collectionTime="1435655881970" />
+      <project id="Test" values="android,java-gradle,android-gradle" collectionTime="0" />
+      <project id="AndroidImageSlider" values="java-gradle,android-gradle,android" collectionTime="0" />
+      <project id="gradle" values="android,android-gradle" collectionTime="0" />
+      <project id="TTTTT" values="android-gradle,java-gradle,android" collectionTime="0" />
+    </group>
+    <group name="module type">
+      <project id="Android-studio" values="JAVA_MODULE" collectionTime="0" />
+      <project id="demo" values="JAVA_MODULE" collectionTime="0" />
+      <project id="ETC_BT" values="JAVA_MODULE" collectionTime="0" />
+      <project id="ETC_APP" values="JAVA_MODULE" collectionTime="1436493345396" />
+      <project id="Android-studio-Model - 副本" values="JAVA_MODULE" collectionTime="0" />
+      <project id="ETC_HIGH_END" values="JAVA_MODULE" collectionTime="1434679253754" />
+      <project id="demo-app-android-1.4.4" values="JAVA_MODULE" collectionTime="0" />
+      <project id="Android-studio - Model" values="JAVA_MODULE" collectionTime="0" />
+      <project id="QZYSAndroidClient" values="JAVA_MODULE" collectionTime="0" />
+      <project id="circular-progress-button-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="1_ActionBar" values="JAVA_MODULE" collectionTime="0" />
+      <project id="FiveLevel" values="JAVA_MODULE" collectionTime="0" />
+      <project id="MyLeanCloud" values="JAVA_MODULE" collectionTime="0" />
+      <project id="Android-studio-Model" values="JAVA_MODULE" collectionTime="0" />
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1435732847462" />
+      <project id="parent" values="JAVA_MODULE" collectionTime="0" />
+      <project id="Model" values="JAVA_MODULE" collectionTime="0" />
+      <project id="leanchat-android-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="GuillotineMenu-Android-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="app" values="JAVA_MODULE" collectionTime="0" />
+      <project id="Side-Menu.Android-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="myfirst" values="JAVA_MODULE" collectionTime="0" />
+      <project id="CircularReveal-master" values="JAVA_MODULE" collectionTime="0" />
+      <project id="AndroidSwipeLayout-master" values="JAVA_MODULE" collectionTime="1435813475881" />
+      <project id="ETC" values="JAVA_MODULE" collectionTime="0" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1435655881970" />
+      <project id="Test" values="JAVA_MODULE" collectionTime="0" />
+      <project id="AndroidImageSlider" values="JAVA_MODULE" collectionTime="0" />
+      <project id="gradle" values="JAVA_MODULE" collectionTime="0" />
+      <project id="TTTTT" values="JAVA_MODULE" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="AndroidSwipeLayout-master" values="AndroidRunConfigurationType" collectionTime="1435813475883" />
+      <project id="Model" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="Android-studio-Model" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1435655881970" />
+      <project id="My Application" values="AndroidRunConfigurationType" collectionTime="1435732847464" />
+      <project id="Android-studio" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="AndroidImageSlider" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="QZYSAndroidClient" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="MyLeanCloud" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="Side-Menu.Android-master" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="Android-studio - Model" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="ETC_BT" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="Android-studio-Model - 副本" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="ETC_APP" values="AndroidRunConfigurationType" collectionTime="1436493345399" />
+      <project id="Test" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="FiveLevel" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="ETC" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="1_ActionBar" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="TTTTT" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="myfirst" values="AndroidRunConfigurationType" collectionTime="0" />
+      <project id="ETC_HIGH_END" values="AndroidRunConfigurationType" collectionTime="1434679253755" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="3" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="950" />
+      <entry feature="execute.JUnit.Run" count="11" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Gradle" count="11" />
+      <entry feature="ide.settings.HTTP_Proxy" count="2" />
+      <entry feature="ide.settings.Keymap" count="6" />
+      <entry feature="ide.settings.Project_Structure" count="11" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="120" />
+    </counts>
+  </component>
+</application>

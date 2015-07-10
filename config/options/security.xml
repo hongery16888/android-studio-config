@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PasswordDatabase">
+    <option name="MASTER_PASSWORD_INFO" value="01000000d08c9ddf0115d1118c7a00c04fc297eb01000000e314b21edd2c434386076799516579f500000000160000004d006100730074006500720020004b00650079000000106600000001000020000000832bbb3ae03173c7f49a43f353ad3d31cbe7455a269c0290af7dd4629b57d7e1000000000e8000000002000020000000f03fae9f54c143a8883f4b4752e24a188fe29c3beea2375eb9af7e4a86fc40d510000000d982a16d938c12278140b2dc12fd624f400000001ed74afece75e73e8d26458ea353f256eb5d9ea97c6835f10c460882be6971eb1dd51c577b064edc0a7fa96b171bd79e5920c523f57368fd034165715163d32c" />
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="d4b12a99b558cfc77eea2db27c578782a9d2b5a4c774252cea0c1d9a6a37cc01" />
+          <option value="edc0491f866c369c51cca24c5352c9381f36163d00995dc4c3f791a8aa9aa6b8" />
+          <option value="ee385c1030ae25e17cd04edc377f86e734727d8cb66ced306cf1ddc3f5915d6b" />
+        </array>
+        <array>
+          <option value="0f295ebba1061a2454e4640710778be2" />
+          <option value="5fdb003b94569bfa4538f9866ccdd830" />
+          <option value="d0ef5b1b3359d294113165f8af86ebc71d312e6a7aa91be740363be047e4cc84" />
+        </array>
+      </array>
+    </option>
+  </component>
+</application>
+
